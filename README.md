@@ -8,3 +8,5 @@
 ```
 makeWidget();
 ```
+Demo:
+http://k-cms.pl/widget/
